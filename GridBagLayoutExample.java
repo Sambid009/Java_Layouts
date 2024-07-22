@@ -9,6 +9,8 @@ import javax.swing.*;
 // We can specify the coordinates for content placement and the number of cells each component occupies.
 // To set properties of the layout, GridBagConstraints is used.
 
+
+
 class GridBagExample extends JFrame {
     JButton b1, b2, b3, b4;
 
